@@ -1,0 +1,35 @@
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\bin\Debug\AppDemo.exe.config
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\bin\Debug\AppDemo.exe
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\bin\Debug\AppDemo.pdb
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\bin\Debug\EntityFramework.dll
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\bin\Debug\EntityFramework.xml
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\AppDemo.csproj.AssemblyReference.cache
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\AppDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\MainPages.g.cs
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\App.g.cs
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\AppDemo_Content.g.cs
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\AppDemo_MarkupCompile.cache
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\AppDemo_MarkupCompile.lref
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\MainPages.baml
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\AppDemo.g.resources
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\AppDemo.Properties.Resources.resources
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\AppDemo.csproj.GenerateResource.cache
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\AppDemo.csproj.CoreCompileInputs.cache
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\AppDemo.csproj.CopyComplete
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\AppDemo.exe
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\AppDemo.pdb
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\App.baml
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\Pages\Login.g.cs
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\Pages\Login.baml
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\Pages\Administrator.g.cs
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\Pages\Seller.g.cs
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\Pages\ShiftSupervisor .g.cs
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\Pages\Administrator.baml
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\Pages\Seller.baml
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\Pages\ShiftSupervisor .baml
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\Pages\Windows\AdministratorAdd.g.cs
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\Pages\Windows\AdministratorEdit.g.cs
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\Pages\Windows\AdministratorAdd.baml
+C:\Users\vladimir75vov\Desktop\AppDemo\AppDemo\obj\Debug\Pages\Windows\AdministratorEdit.baml

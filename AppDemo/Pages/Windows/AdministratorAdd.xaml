@@ -1,0 +1,25 @@
+﻿<Window x:Class="AppDemo.Pages.Windows.AdministratorAdd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppDemo.Pages.Windows"
+        mc:Ignorable="d"
+        Title="AdministratorAdd" Height="450" Width="800"
+        Loaded="Window_Loaded">
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center" Width="300">
+            <Label Content="ID клиента:"/>
+            <TextBox x:Name="textBoxIDclient"/>
+            <Label Content="Услуги:"/>
+            <TextBox x:Name="textBoxService"/>
+            <Label Content="Статус:"/>
+            <ComboBox x:Name="comboBoxIDstatus" DisplayMemberPath="title"/>
+            <Label Content="Дата закратия:"/>
+            <DatePicker x:Name="datePickerDateClose"/>
+            <Label Content="Время проката(в минутах):"/>
+            <TextBox x:Name="textBoxTimeRent"/>
+            <Button x:Name="buttonAdd" Content="Добавить" Click="buttonAdd_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
